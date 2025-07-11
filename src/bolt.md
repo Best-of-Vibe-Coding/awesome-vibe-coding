@@ -2,12 +2,12 @@
 title: Bolt
 homepage: https://bolt.new
 x: boltdotnew
-linkedin:boltdotnew
+linkedin: boltdotnew
 country: United States
 funding: 105
 creditefficiency: 0.7
 categories: ["Mobile","SaaS", "Website", "Design"]
-description: Bolt is an in-browser AI web development agent for full stack web application development. It provides a chat-based environment where you prompt an agent to make code changes. These changes are implemented in realtime in the development environment.
+description: Bolt is an in-browser AI web development agent for full-stack web application development. It provides a chat-based environment where you prompt an agent to make code changes. These changes are implemented in realtime in the development environment.
 logo: /assets/bolt/logo.png
 images:
   - path: /assets/bolt/homepage.png
