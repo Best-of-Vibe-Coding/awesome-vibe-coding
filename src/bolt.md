@@ -14,7 +14,7 @@ images:
   - path: /assets/bolt/builder-interface.png
 ---
 
-# Bolt.new: AI-Powered Full-Stack Web Development in Your Browser
+# Bolt.new
 
 **Bolt.new** is an innovative, AI-driven web development platform developed by StackBlitz. It enables users to design, build, and deploy full-stack applications directly from their browser using natural language prompts. By integrating advanced AI models with StackBlitz's WebContainers technology, Bolt.new streamlines the web development process, making it accessible to both beginners and experienced developers.
 
@@ -43,8 +43,6 @@ Bolt.new supports a variety of modern web frameworks, including React, Vue, Next
 Users can collaborate on projects in real-time, similar to platforms like Google Docs. This feature facilitates teamwork and rapid iteration during the development process.
 
 ---
-
-# Bolt.new
 
 ## How It Works
 
