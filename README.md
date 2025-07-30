@@ -23,6 +23,10 @@ A list of Vibe Coding resources (tutorials, etc.).
 - [List item](http://example.com)
 - [List item](http://example.com)
 
+## Events
+
+You can find a curated [list of Vibe Coding Meetups & conferences](https://lu.ma/vibe-coding-community) happening in San Francisco, Paris and London in Luma. You can add your events directly in lu.ma. 
+
 
 ## Contribute
 
